@@ -36,20 +36,6 @@ iFeelPDF focuses on:
 🌐 **Website:** https://ifeelpdf.lol/
 🐦 **X:** [@iFeelPDF](https://x.com/iFeelPDF)
 
-## What I Like Building
-
-```text
-Web Products
-   ↓
-Developer Tools
-   ↓
-Productivity Software
-   ↓
-Privacy-focused Applications
-   ↓
-Experimental / Indie Projects
-```
-
 I enjoy working at the intersection of **technology + design + product thinking**.
 
 ## Tech & Tools
@@ -72,15 +58,15 @@ I enjoy working at the intersection of **technology + design + product thinking*
 
 I believe good software should be:
 
-**Simple** — Easy to understand from the first interaction.
+**Simple** → Easy to understand from the first interaction.
 
-**Useful** — Solve a real problem instead of adding complexity.
+**Useful** → Solve a real problem instead of adding complexity.
 
-**Fast** — Get users to the outcome with as little friction as possible.
+**Fast** → Get users to the outcome with as little friction as possible.
 
-**Thoughtful** — Good engineering and good design should work together.
+**Thoughtful** → Good engineering and good design should work together.
 
-**Accessible** — Technology should feel approachable, not intimidating.
+**Accessible** → Technology should feel approachable, not intimidating.
 
 ## Currently
 
