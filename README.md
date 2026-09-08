@@ -73,9 +73,13 @@ I enjoy working at the intersection of **technology + design + product thinking*
 I believe good software should be:
 
 **Simple** — Easy to understand from the first interaction.
+
 **Useful** — Solve a real problem instead of adding complexity.
+
 **Fast** — Get users to the outcome with as little friction as possible.
+
 **Thoughtful** — Good engineering and good design should work together.
+
 **Accessible** — Technology should feel approachable, not intimidating.
 
 ## Currently
